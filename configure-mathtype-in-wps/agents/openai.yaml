@@ -1,0 +1,4 @@
+interface:
+  display_name: "Install and Configure MathType in WPS"
+  short_description: "Install MathType and restore its WPS tab"
+  default_prompt: "Use $configure-mathtype-in-wps to install licensed MathType and configure its WPS integration."
